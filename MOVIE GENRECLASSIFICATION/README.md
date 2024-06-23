@@ -36,10 +36,10 @@ This code utilizes MultiOutput Naive Bayes to predict movie genres based on plot
 
 ## Requirements
 Python 3.x
-Pandas (pandas)
-NumPy (numpy)
-Scikit-Learn (scikit-learn)
-TQDM (tqdm)
+Pandas ('pandas')
+NumPy ('numpy')
+Scikit-Learn ('scikit-learn')
+TQDM ('tqdm')
 
 ## Author
 Shrawan Vij
