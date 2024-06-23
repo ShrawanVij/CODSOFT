@@ -11,5 +11,5 @@ In this repository, I present my three significant tasks that I accomplished dur
 >In this task I build an AI model that can classify SMS messages as spam orlegitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support VectorMachines to identify spam messages for better user experience.
 
 ## Author
->Shrawan Vij
-Contact me @ [LinkedIn](www.linkedin.com/in/shrawanvij)   [Intagram](https://www.instagram.com/shrawanvij/)   [Mail](sharwanvij211@gmail.com)
+>**Shrawan Vij**
+Contact me @ [LinkedIn](www.linkedin.com/in/shrawanvij)   [Intagram](https://www.instagram.com/shrawanvij/)      [Mail](sharwanvij211@gmail.com)
