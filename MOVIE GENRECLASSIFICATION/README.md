@@ -35,11 +35,14 @@ For video, real-time object detection and recognition are performed.
 This code utilizes MultiOutput Naive Bayes to predict movie genres based on plot descriptions, involving data preprocessing, TF-IDF vectorization, and evaluation metrics calculation. To use the code, ensure required libraries are installed, provide training and test data, run the code, and review genre predictions and evaluation metrics in model_evaluation.txt.
 
 ## Requirements
->Python 3.x /n >Pandas ('pandas')
+'''
+>Python 3.x
+>Pandas ('pandas')
 >NumPy ('numpy')
 >Scikit-Learn ('scikit-learn')
 >TQDM ('tqdm')
+'''
 
 ## Author
 Shrawan Vij
->  contact me@ [LinkedIn](www.linkedin.com/in/shrawanvij) [Intagram](https://www.instagram.com/shrawanvij/) [Mail](sharwanvij211@gmail.com)
+>  contact me@ [LinkedIn](www.linkedin.com/in/shrawanvij)   [Intagram](https://www.instagram.com/shrawanvij/)   [Mail](sharwanvij211@gmail.com)
