@@ -4,8 +4,7 @@
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 24 jun 2023
 # LinkedIn Profile: www.linkedin.com/in/shrawanvij
-# GitHub Repository: https://github.com/azuregray/CodSoft-InternshipTasks/
-
+# GitHub Repository: https://github.com/ShrawanVij/CODSOFT
 
 # Lets start the code by importing necessary libraries
 import pandas as pd
