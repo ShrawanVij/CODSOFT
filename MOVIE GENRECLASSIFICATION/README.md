@@ -43,4 +43,4 @@ TQDM (tqdm)
 
 ## Author
 Shrawan Vij
->  contact me@ [LinkedIn](www.linkedin.com/in/shrawanvij)
+>  contact me@ [LinkedIn](www.linkedin.com/in/shrawanvij) [Intagram](https://www.instagram.com/shrawanvij/) [Mail](sharwanvij211@gmail.com)
