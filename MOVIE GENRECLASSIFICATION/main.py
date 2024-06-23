@@ -1,9 +1,9 @@
-# AUTHOR: DARSHAN S
+# AUTHOR: Shrawan Vij
 # TASK NAME: Movie Genre Classification
 # 1st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
-# DATE OF SUBMISSION: 26 September 2023
-# LinkedIn Profile: https://linkedin.com/in/arcticblue/
+# DATE OF SUBMISSION: 24 jun 2023
+# LinkedIn Profile: www.linkedin.com/in/shrawanvij
 # GitHub Repository: https://github.com/azuregray/CodSoft-InternshipTasks/
 
 
