@@ -1,3 +1,12 @@
+# AUTHOR: Shrawan Vij
+# TASK NAME: Credit Card Fraud Detection
+# 1st Task in the List of Tasks
+# TASK CATEGORY: Machine Learning
+# DATE OF SUBMISSION: 24 jun 2023
+# LinkedIn Profile: www.linkedin.com/in/shrawanvij
+# GitHub Repository: https://github.com/ShrawanVij/CODSOFT
+
+
 # Lets start the code by importing necessary libraries
 import pandas as pd
 import numpy as np
