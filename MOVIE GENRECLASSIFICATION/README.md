@@ -1,8 +1,6 @@
-CODSOFT SEPTEMBER 2023 ML TASK 1 - Movie Genre Classification
-<br>
-Main Objective: Movie Genre Learning, Identification and Classification.
-<br>
-This folder contains Python code for a movie genre prediction system using MultiOutput Naive Bayes. It predicts movie genres based on their plots.
+# CODSOFT SEPTEMBER 2023 ML TASK 1 - Movie Genre Classification
+## Main Objective: Movie Genre Learning, Identification and Classification.
+### This folder contains Python code for a movie genre prediction system using MultiOutput Naive Bayes. It predicts movie genres based on their plots.
 
 Libraries and Techniques Used
 Pandas (pandas) for data manipulation and analysis.
