@@ -40,3 +40,7 @@ Pandas (pandas)
 NumPy (numpy)
 Scikit-Learn (scikit-learn)
 TQDM (tqdm)
+
+## Author
+Shrawan Vij
+<p> contact me@ <a>href="www.linkedin.com/in/shrawanvij">LinkedIn</a> </p>
