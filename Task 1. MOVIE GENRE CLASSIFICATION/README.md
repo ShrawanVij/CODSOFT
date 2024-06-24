@@ -56,4 +56,4 @@
 ### Author
 
 >*Shrawan Vij*          
->contact me@ [LinkedIn](www.linkedin.com/in/shrawanvij)   [Intagram](https://www.instagram.com/shrawanvij/)   [Mail](sharwanvij211@gmail.com)
+>contact me@ [LinkedIn](https://www.linkedin.com/in/shrawanvij)   [Intagram](https://www.instagram.com/shrawanvij/)      [Mail](mailto:sharwanvij211@gmail.com)
