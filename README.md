@@ -14,4 +14,4 @@ I've completed my internship tasks and I'm happy to share the them to you! You c
 
 ## Author
 >*Shrawan Vij*          
->Contact me @ [LinkedIn](https://www.linkedin.com/in/shrawanvij)   [Intagram](https://www.instagram.com/shrawanvij/)      [Mail](sharwanvij211@gmail.com)
+>Contact me @ [LinkedIn](https://www.linkedin.com/in/shrawanvij)   [Intagram](https://www.instagram.com/shrawanvij/)      [Mail](mailto:sharwanvij211@gmail.com)
